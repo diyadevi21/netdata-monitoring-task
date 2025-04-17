@@ -7,7 +7,6 @@
 
 ## 📂 Project Structure
 
-```bash
 📁 netdata-monitoring/
 ├── screenshots/
 │   ├── dashboard-1.png
@@ -48,8 +47,7 @@
 
 ## ✍ Docker Command Used
 
-```bash
 docker run -d --name=netdata -p 19999:19999 netdata/netdata
 
-## Author
+## Aurhor
   diyadevi21
